@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kushal K
 - 👀 I’m interested in learning programming and building projects 
-- 🌱 I’m currently learning Java,Front-End Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me kushal230803@gmail.com
 
 <!---
